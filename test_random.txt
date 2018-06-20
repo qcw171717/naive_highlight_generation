@@ -1,0 +1,51 @@
+Is Google's new set of principles enough to calm fears over militarized A.I.?
+
+While the company's effort to draft ethical guidelines is a start, critics say more needs to be done
+
+Critics have been urging companies involved in the creation of artificial intelligence to develop a code of ethics before it's too late. Now Google is complying, following backlash over its work with the U.S. Pentagon developing a system to analyze military drone visuals.
+
+But is this new set of principles enough to calm people's fears about the potential dangers of militarized A.I.? Or is it just a public relations sleight of hand intended to assuage the critics?
+
+After all, without any independent oversight, there's little binding Google to its word.
+
+The need for oversight is particularly pressing with regards to militarized A.I., or autonomous weapons systems. What differentiates this category of weapons is their autonomy: combat drones, for example, that could eventually replace human-piloted fighter planes; robotic tanks that can operate on their own; and guns that are capable of firing themselves.
+
+The argument in favour of this lethal breed of A.I. is that human operators aren't put at risk — be it guns at border crossings, or planes or tanks on the front lines of conflict.
+
+But the risk of accidental casualties when a machine is in charge of making life-or-death decisions has many concerned. As does the potential for the technology to fall into the wrong hands, such as dictatorships or terrorists.
+
+The United Nations last year discussed the possibility of instituting an international ban on "killer robots" following an open letter signed by more than 100 leaders from the artificial intelligence community. The leaders warning that the use of these weapons could lead to a "third revolution in warfare," likening it to a Pandora's box: hard to close once opened.
+
+Google has been a major player in the development of A.I.
+
+With its Pentagon research program, "Project Maven," the company has been training A.I. to classify objects in drone footage. In other words, they have been teaching the drones to understand what they are looking at.
+
+The project has been extremely controversial. In fact, it was so contentious internally that when Google employees found out the specifics of what they were working on, a dozen employees reportedly resigned in protest, and thousands more filed an internal petition about the company's involvement in the project.
+
+In response to that pushback, the company said it would not renew the Pentagon contract when it expires in March 2019.
+
+(That said, if it's not Google, it will be someone else. IBM, Amazon and Microsoft were all in the running for the Project Maven contact. And according to tech publication Gizmodo, internal emails reveal Google's executives were enthusiastic about the project, seeing it as an opportunity that could lead to larger, lucrative Pentagon contracts.)
+
+Still, on the heels of the news that they will be stepping away from the military project, Google has launched a code of ethics with regards to its responsibilities in A.I. development.
+
+In a blog post published last week, Google CEO Sundar Pichai lists what the company calls its "objectives for A.I. applications."
+
+The first principle states that the A.I. developed by the company should benefit society. Others say artificial intelligence should avoid algorithmic bias, respect privacy and be tested for safety. And the principles state that the A.I. they develop should be accountable to the public and maintain scientific rigour.
+
+But without any independent audits or oversights, critics argue this code of ethics is little more than a stunt to calm naysayers.
+
+"Announcing a set of ethical guidelines is one way a company can flag that they are taking this responsibility seriously. But ultimately the proof is in how they act," says Karina Vold, an A.I. researcher at Britain's Cambridge University.
+
+She notes that while Google states it will not produce "weapons or other technologies whose principal purpose or implementation is to cause or directly facilitate injury to people," plenty of seemingly harmless technologies could be used to do exactly that. 
+
+Visual recognition techniques, for example, like the ones being developed with Project Maven, can be taught to profile and target specific individuals, Vold said, and its human trainers can introduce their own biases. 
+
+In addition, nothing in the principles explicitly prevents the company from pursuing future military contracts. And the document doesn't include any details about the process by which this code of ethics will be adhered, or any mention of oversight or independent review.
+
+This is one of the recurring challenges when it comes to big tech companies such as Google: They can make grandiose pronouncements about how they will do no harm, but there's often no accountability.
+
+Vold says that while big tech companies can self-regulate, it's widely seen to be in the best interest of a corporation to maximize profits for its shareholders.
+
+When it comes to regulation and independent review, she says the case of Project Maven in particular is a tricky one.
+
+"It's not clear whom we can trust to provide external oversight when it's involvement with the government that prompts public outcry."
