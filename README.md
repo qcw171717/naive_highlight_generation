@@ -1,6 +1,4 @@
 # naive_highlight_generation
-Naive Method for Highlight Generation
-
 Uses a naive algorithm for text highlight generation. 
 
 Intuition behind this algorithm: 
